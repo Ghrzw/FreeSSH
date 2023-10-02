@@ -1,1 +1,1 @@
-https://github.com/MatsuriDayo/Matsuri/releases/tag/0.5.8
+https://github.com/MatsuriDayo/Matsuri/releases
